@@ -1,0 +1,42 @@
+
+
+#barra-principal{
+	background-image: url("images/carrinho-de-mercado2.png");
+	background-position: center;
+	background-size: 1975px;
+	padding: 120px;
+}
+
+
+#barra-principal h1{
+	font-family: lobster;
+	font-size: 80px;
+	color: white; /*#2D9960*/
+	text-align: center;
+}
+
+#barra-principal h2{
+	font-size:20px;
+	color: white;
+	text-align: center;
+	margin: 120px;
+}
+
+
+body{
+	font-family: Montserrat;
+	text-align: center;
+	margin: 0;
+}
+
+#barra-final{
+	color: white;
+	background-color: rgb(20,20,20);
+	margin: 0;
+	padding: 40px;
+}
+
+.conteudo{
+	background-color: white;
+	padding: 30px;
+}
